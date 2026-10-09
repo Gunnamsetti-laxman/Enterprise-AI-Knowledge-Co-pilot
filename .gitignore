@@ -1,0 +1,16 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+node_modules/
+.next/
+
+.webui_secret_key
